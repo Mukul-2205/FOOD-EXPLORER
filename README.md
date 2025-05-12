@@ -32,13 +32,16 @@ Appwrite project setup with authentication enabled
 
 ### Installation
 git clone https://github.com/Mukul-2205/FOOD-EXPLORER.git
+
 cd FOOD-EXPLORER
+
 npm install
 
 ### Configuration
 Create a .env file and set:
 
 VITE_APPWRITE_PROJECT_ID=your_project_id
+
 VITE_APPWRITE_ENDPOINT=https://cloud.appwrite.io/v1
 
 ### Run Project

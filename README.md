@@ -61,6 +61,6 @@ Error & Loading States: All major async actions handle and display errors and lo
 
 
 ## Live Link of the project deployed on vercel
-
-food-explorer-gamma.vercel.app
+[
+food-explorer-gamma.vercel.app](https://food-explorer-gamma.vercel.app/)
 

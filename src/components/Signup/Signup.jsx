@@ -96,11 +96,11 @@ function Signup() {
           type="password"
           name="password"
           id="password"
-          placeholder="••••••••"
+          placeholder="Password must have characters from a-z, A-Z, 0-9, @#$%&*"
           value={password}
           onChange={(e)=>setPassword(e.target.value)}
 
-          className="bg-black/20 border border-white/40 placeholder-black/70 text-black text-sm rounded-lg focus:ring-white focus:border-white block w-full p-2.5"
+          className="bg-black/20 border border-white/40 placeholder-black/70 text-black text-sm rounded-lg focus:ring-white focus:border-white block w-full p-2.5 h-10"
           required
         />
       </div>

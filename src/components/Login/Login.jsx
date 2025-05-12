@@ -21,7 +21,7 @@ function Login() {
             }
         } catch (error) {
             console.log("Error occured while logging in,",error);
-            alert(error.message,"or try signing up")
+            alert(error.message)
         }
     }
     return (

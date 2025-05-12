@@ -53,6 +53,11 @@ Authentication: Appwrite SDK handles signup/login, session management, and secur
 
 Data Fetching: Used fetch API to interact with OpenFoodFacts endpoints. Search uses search_terms and filters data client-side using case-insensitive substring matching.
 
+## Live Link of the project deployed on vercel
+
+https://food-explorer-4rjxnrw9s-mukul-kumars-projects-14b92f27.vercel.app
+
+
 Protected Routing: Custom Protected component checks Redux auth state and redirects if unauthorized.
 
 Pagination & Load More: Implemented in search and list view with hasMore state flag.
